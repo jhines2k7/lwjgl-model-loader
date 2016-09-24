@@ -1,0 +1,11 @@
+package org.hines.james;
+
+public interface OpenGLApp {
+    void init() throws Exception;
+
+    void input(Window window);
+
+    void update(float interval);
+
+    void render(Window window);
+}
