@@ -104,6 +104,6 @@ public class ModelLoaderDemo {
     }
 
     public static void main(String[] args) {
-        new HelloWorld().run();
+        new ModelLoaderDemo().run();
     }
 }
